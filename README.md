@@ -6,7 +6,7 @@ Federated domain generalization aims to learn a generalizable model from multipl
 
 ## Different style augmentation paradigm under data decentralization scenario
 
-  ![KD](./images/fig1.pdf)
+  ![KD](./images/fig1.png)
 
 * (a) Single-domain style exploration on the isolated source domains ignores the styles of other domains, which leads to limited style diversity.
 * (b) Multi-domain style interpolation mixes the shared style information across decentralized source domains, which leads to the generated styles within the existing source domains.
@@ -14,7 +14,7 @@ Federated domain generalization aims to learn a generalizable model from multipl
 
 ## Method
 
-  ![KD](./images/framework.pdf)
+  ![KD](./images/framework.png)
 
 * (a) The overall framework of our method. 
 * (b) The local training on decentralized source domains, where collaborative style augmentation and domain-invariant learning are conducted alternatively.
@@ -70,7 +70,7 @@ The results on PACS and Office-Home dataset for FedDG task are follows.
 
 The Grad-CAM visualization on PACS dataset is follows.
 
-  ![FedDA](./images/fig5.pdf)
+  ![FedDA](./images/fig5.png)
 
 ## Reference
 
