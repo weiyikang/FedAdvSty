@@ -6,7 +6,7 @@ Federated domain generalization aims to learn a generalizable model from multipl
 
 ## Different style augmentation paradigm under data decentralization scenario
 
-  ![KD-w100](./images/fig1.png)
+  ![KD-w50](./images/fig1.png)
 
 * (a) Single-domain style exploration on the isolated source domains ignores the styles of other domains, which leads to limited style diversity.
 * (b) Multi-domain style interpolation mixes the shared style information across decentralized source domains, which leads to the generated styles within the existing source domains.
